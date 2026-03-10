@@ -8,7 +8,7 @@ PROFESSOR
 123457	John Gauch	 Professor			CSCE	jgauch@uark.edu
 222222	Yanjun Pan	 Assistant Professor		CSCE	yanjunp@uark.edu
 317778  Alan Mantooth	 Distinguished Professor	ELEG 	mantooth@uark.edu
-310101	Brajedra Panda 	 Professor			CSCE	bpanda@uark.edu
+310101	Brajendra Panda 	 Professor			CSCE	bpanda@uark.edu
 444555	Alexander Nelson Associate Professor		CSCE	ahnelson@uark.edu
 555110  Kevin Jin	 Associate Professor		CSCE 	dongjin@uark.edu
 
